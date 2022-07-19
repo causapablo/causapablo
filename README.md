@@ -5,6 +5,7 @@
 - 🛹 I’m looking to new challenges always. 
 - 🥅 2022 Goals: Learn more about web3
 - 🚲 Fun fact: I love sports, jogging in the park, painting and cultivate the mind.
+- 🚲 Science: Yeah, Science! Physics and Math.
 
 
 ### Connect with me:
