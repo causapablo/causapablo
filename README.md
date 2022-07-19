@@ -47,7 +47,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [My persona project!](https://www.youtube.com/watch?v=aTfcXPvpPCs)
+- [My personal project!](https://www.youtube.com/watch?v=aTfcXPvpPCs)
 
 <!-- YOUTUBE:END -->
 
