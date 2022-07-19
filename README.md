@@ -1,11 +1,11 @@
 ## I'm a Full Stack Developer!!👋 
 
-- 🔭 Full Stack Developer:
+- 💻 Full Stack Developer:
 - 🔥 Handy brain, handy man 
 - 🛹 I’m looking to new challenges always. 
 - 🥅 2022 Goals: Learn more about web3
 - 🚲 Fun fact: I love sports, jogging in the park, painting and cultivate the mind.
-- 🚲 Science: Yeah, Science! Physics and Math.
+- 📜 Science: Yeah, Science! Physics and Math.
 
 
 ### Connect with me:
